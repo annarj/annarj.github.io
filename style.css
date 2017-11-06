@@ -1,0 +1,55 @@
+
+
+.myprojects {
+  text-align: center;
+}
+.myprojects figure{
+  max-width:750px;
+  margin:auto;
+  padding:10px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+.myprojects figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.myprojects figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.myprojects h3 a:hover{
+color:#5ac5c9;
+text-decoration:none;
+}
+.myprojects h3 a{
+  color:#272727;
+}
+.myprojects ul li{
+  list-style:none;
+  margin-bottom:50px;
+}
+.myprojects h3{
+  margin-bottom:0px;
+  font-family: 'Oswald', sans-serif;
+}
+.myprojects h3 i{
+  font-size:16px
+}
+
+
+@media only screen and (max-width: 1024px){
+.btn-menu{
+  display:none;
+}
+.myprojects img{
+  max-width: 100%;
+}
+figure:hover img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+}
