@@ -41,9 +41,19 @@ text-decoration:none;
 }
 p{
   font-family:'Oswald';
-  font-size:13px;
-  color:#ccc;
+  font-size:14px;
+  color:#ddd;
 }
+h2{font-family: 'Oswald', sans-serif;
+color:#cecece;
+}
+footer{
+background-color:#ccc;
+}
+footer p{
+  color:#fff;
+}
+
 
 @media only screen and (max-width: 1024px){
 .btn-menu{
