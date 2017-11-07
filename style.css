@@ -42,13 +42,18 @@ text-decoration:none;
 p{
   font-family:'Oswald';
   font-size:14px;
-  color:#ddd;
+  color:#8c8c8c;
+  line-height:2;
 }
-h2{font-family: 'Oswald', sans-serif;
-color:#cecece;
+h2{
+  font-family: 'Oswald', sans-serif;
+  color:#cecece;
 }
 footer{
-background-color:#ccc;
+  background-color: #9c9c9c;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
 }
 footer p{
   color:#fff;
@@ -56,6 +61,10 @@ footer p{
 header h1{
   color:#987186;
 }
+header{
+  background-color: #f9f2f6;
+    padding-top: 20px;
+    padding-bottom: 20px;}
 
 @media only screen and (max-width: 1024px){
 .btn-menu{
