@@ -53,7 +53,9 @@ background-color:#ccc;
 footer p{
   color:#fff;
 }
-
+header h1{
+  color:#987186;
+}
 
 @media only screen and (max-width: 1024px){
 .btn-menu{
