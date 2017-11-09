@@ -1,7 +1,7 @@
 
 h1{
   font-family:'Shadows Into Light Two', cursive;
-  font-size:22px;
+  font-size:36px;
 }
 .me{
   background-color: #272727;
@@ -13,7 +13,7 @@ h1{
 }
 .myprojects {
   text-align: center;
-  padding-top:30px;
+  padding-top:60px;
   padding-bottom:30px;
 }
 .myprojects figure{
@@ -78,8 +78,7 @@ header h1{
 }
 header{
   background-color: #f9f2f6;
-    padding-top: 20px;
-    padding-bottom: 20px;}
+    padding-bottom: 15px;}
 
 @media only screen and (max-width: 1024px){
 .btn-menu{
