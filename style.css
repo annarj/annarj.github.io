@@ -12,7 +12,8 @@ h1{
   color:#fff;
 }
 .myself{
-  width:400px;
+  width:350px;
+  margin:auto;
 }
 .myprojects {
   text-align: center;
