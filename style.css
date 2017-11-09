@@ -1,7 +1,6 @@
 
 h1{
   font-family:'Shadows Into Light Two', cursive;
-  font-size:36px;
   padding-bottom:40px;
 }
 .me{
@@ -11,7 +10,6 @@ h1{
 }
 .me h1 {
   color:#fff;
-  font-size:36px;
 }
 .me img{
   width:400px;
@@ -33,7 +31,7 @@ h1{
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
-  max-width: 750px;
+/*  max-width: 750px; */
 }
 .myprojects figure:hover img {
 	-webkit-transform: scale(1.3);
@@ -81,6 +79,7 @@ footer p{
 header h1{
   color:#987186;
   padding-bottom:0px;
+  font-size: 32px;
 }
 header{
   background-color: #f9f2f6;
