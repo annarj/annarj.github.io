@@ -1,5 +1,14 @@
 
-
+h1{
+  font-family:font-family: 'Shadows Into Light Two', cursive;
+  font-size:16px;
+}
+.me{
+  background-color: #000;
+}
+.me h1 {
+  color:#fff;
+}
 .myprojects {
   text-align: center;
   padding-top:30px;
