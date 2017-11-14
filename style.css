@@ -92,7 +92,8 @@ header{
 .progress{
     height: 10px;}
 .myprogress p{
-  padding:30px 0px;
+  margin-bottom: 0px;
+  text-align: left;
 }
 
 @media only screen and (max-width: 1024px){
