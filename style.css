@@ -3,6 +3,10 @@ h1{
   font-family:'Shadows Into Light Two', cursive;
   margin-bottom:40px;
 }
+section{
+  padding-top:60px;
+  padding-bottom:30px;
+}
 .me{
   background-color: #272727;
   padding-top: 50px;
@@ -17,8 +21,6 @@ h1{
 }
 .myprojects {
   text-align: center;
-  padding-top:60px;
-  padding-bottom:30px;
 }
 .myprojects figure{
   max-width:750px;
@@ -90,9 +92,10 @@ header{
     background-color:#11ca7e;
   }
 .progress{
-    height: 10px;}
+    height: 10px;
+  }
 .myprogress p{
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
   text-align: left;
 }
 
