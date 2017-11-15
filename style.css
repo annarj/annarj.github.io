@@ -2,7 +2,6 @@
 h1{
   font-family:'Shadows Into Light Two', cursive;
   margin-bottom:40px;
-  text-align: center;
 }
 section{
   padding-top:30px;
@@ -102,6 +101,9 @@ header{
 }
 .myprogress {
   padding-bottom:60px;
+}
+.myprogress h1{
+  text-align: center;
 }
 
 .icons{
