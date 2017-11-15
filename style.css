@@ -105,7 +105,7 @@ header{
 }
 
 .icons{
-  padding:20px 0px;
+  padding:40px 0px 20px;
 }
 .icons li{
   list-style:none;
@@ -130,7 +130,7 @@ header{
 }
 .icons a[href*="facebook"]::before {
       content: "\f09a";
-  padding:10px 12px;
+  padding:10px 15px;
 }
 .icons a[href*="google"]::before {
       content: "\f1a0";
