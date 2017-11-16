@@ -86,14 +86,22 @@ footer{
 footer p{
   color:#fff;
 }
-header h1{
-  color:#11ca7e;
-  margin-bottom: 25px;
-  font-size: 50px;
-}
 header{
   background-color: #ececec
   }
+.navbar-brand{
+  color:#11ca7e;
+  margin-bottom: 25px;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+
+}
+
+.navbar-right{
+  font-size:30px;
+  color:#11ca7e;
+}
+
 .progress-bar{
     background-color:#11ca7e;
   }
