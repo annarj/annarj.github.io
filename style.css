@@ -1,6 +1,8 @@
 
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700');
+
 h1{
-  font-family:'Shadows Into Light Two', cursive;
+  font-family: 'Amatic SC', cursive;
   margin-bottom:40px;
 }
 section{
@@ -46,7 +48,7 @@ ul{
 }
 
 .myprojects h3 a:hover{
-color:#5ac5c9;
+color:#3ba86e;
 text-decoration:none;
 }
 .myprojects h3 a{
@@ -84,12 +86,12 @@ footer p{
   color:#fff;
 }
 header h1{
-  color:#987186;
+  color:#3ba86e;
   padding-bottom:0px;
   font-size: 32px;
 }
 header{
-  background-color: #f9f2f6;
+  background-color: #ececec;
     padding-bottom: 15px;
   }
 .progress-bar{
