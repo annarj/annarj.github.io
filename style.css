@@ -96,7 +96,10 @@ header{
   font-family: 'Amatic SC', cursive;
 
 }
-
+.navbar{
+  padding-top: 15px;
+margin-bottom: 0px;
+}
 .navbar-right{
   font-size:30px;
   color:#11ca7e;
