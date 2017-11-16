@@ -110,6 +110,9 @@ header{
 .myprogress h1{
   text-align: center;
 }
+.progress-div{
+  margin:auto;
+}
 
 .icons{
   padding:40px 0px 20px;
