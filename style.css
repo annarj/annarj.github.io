@@ -48,7 +48,7 @@ ul{
 }
 
 .myprojects h3 a:hover{
-color:#3ba86e;
+color:#11ca7e;
 text-decoration:none;
 }
 .myprojects h3 a{
@@ -86,13 +86,12 @@ footer p{
   color:#fff;
 }
 header h1{
-  color:#3ba86e;
+  color:#11ca7e;
   padding-bottom:0px;
-  font-size: 32px;
+  font-size: 50px;
 }
 header{
-  background-color: #ececec;
-    padding-bottom: 15px;
+  background-color: #ececec
   }
 .progress-bar{
     background-color:#11ca7e;
