@@ -166,6 +166,9 @@ nav .navbar{
 .icons a[href*="instagram"]::before {
       content: "\f16d";
 }
+.icons a[href*="codepen"]::before {
+      content: "\f1cb";
+}
 
 
 .icons a:hover:before {
